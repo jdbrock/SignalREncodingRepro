@@ -1,0 +1,6 @@
+@SignalREncodingRepro.Web_HostAddress = http://localhost:5065
+
+GET {{SignalREncodingRepro.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

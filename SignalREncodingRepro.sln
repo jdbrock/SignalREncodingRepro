@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalREncodingRepro.Web", "SignalREncodingRepro.Web\SignalREncodingRepro.Web.csproj", "{8A7A777B-9273-4313-A69B-DF2D52F274D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalREncodingRepro.Client", "SignalREncodingRepro.Client\SignalREncodingRepro.Client.csproj", "{0DE6ED74-8EDF-4E83-A53F-7572ADBA4BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalREncodingRepro.Expected", "SignalREncodingRepro.Expected\SignalREncodingRepro.Expected.csproj", "{8C73B9EF-5B08-4606-9690-69FEACE774C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7A777B-9273-4313-A69B-DF2D52F274D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7A777B-9273-4313-A69B-DF2D52F274D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7A777B-9273-4313-A69B-DF2D52F274D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7A777B-9273-4313-A69B-DF2D52F274D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE6ED74-8EDF-4E83-A53F-7572ADBA4BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE6ED74-8EDF-4E83-A53F-7572ADBA4BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE6ED74-8EDF-4E83-A53F-7572ADBA4BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE6ED74-8EDF-4E83-A53F-7572ADBA4BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C73B9EF-5B08-4606-9690-69FEACE774C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C73B9EF-5B08-4606-9690-69FEACE774C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C73B9EF-5B08-4606-9690-69FEACE774C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C73B9EF-5B08-4606-9690-69FEACE774C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBED69E4-E0E5-4DDF-B13B-20A4760C538D}
+	EndGlobalSection
+EndGlobal
